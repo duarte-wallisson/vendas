@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11ade60f-a9bd-413f-a6ec-cf2441ef38c0" name="Changes" comment="feat(S04A10-12): Hello, World! E testando annotation @Configuration e @Bean">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="11ade60f-a9bd-413f-a6ec-cf2441ef38c0" name="Changes" comment="feat(S04A10-12): Hello, World! E testando annotation @Configuration e @Bean" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,6 +81,7 @@
       <workItem from="1698761493022" duration="71000" />
       <workItem from="1698843396031" duration="614000" />
       <workItem from="1703268135141" duration="690000" />
+      <workItem from="1708826089346" duration="387000" />
     </task>
     <task id="LOCAL-00001" summary=":tada: Commit inicial">
       <option name="closed" value="true" />
